@@ -1,0 +1,4 @@
+  =>  Website Name    : Searcher
+  =>  Author Name   : Azhad Nasim
+  =>  For  : Skill-Test
+  => Figma Link   https://www.figma.com/file/J9BD8xtkrt7dsCEv3y1F0R/Searcher-Website?type=design&node-id=0%3A1&mode=design&t=xhnlq1t36FOr0yYa-1
